@@ -1,0 +1,15 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"BracketHighlighter",
+		"DocBlockr",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"Theme - Soda",
+		"Xdebug Client"
+	]
+}
